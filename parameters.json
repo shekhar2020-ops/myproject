@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "virtualMachines_test_vm_name": {
-            "value": null
+            "value": TestVM
         },
         "disks_test_vm_disk1_4f35de6482db4568bc1ce7f96a0454fe_externalid": {
-            "value": null
+            "value": TestVM_Disk
         },
         "networkInterfaces_test_vm97_externalid": {
-            "value": null
+            "value": TestVM_nic01
         }
     }
 }
